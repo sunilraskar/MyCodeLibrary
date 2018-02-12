@@ -1,0 +1,11 @@
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\bin\Debug\AWSSDK.dll
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\bin\Debug\AWSSDK.pdb
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\awssamples.csproj.GenerateResource.Cache
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\awssamples.csproj.CoreCompileInputs.cache
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\sunilprojects\AWSSamples\WindowsFormsApp7\obj\Debug\s3Samples.Form1.resources
